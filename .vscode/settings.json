@@ -1,0 +1,12 @@
+{
+  "cSpell.words": [
+    "marp",
+    "plasmo"
+  ],
+  "github.copilot.editor.enableAutoCompletions": true,
+  "github.copilot.enable": {
+    "*": false,
+    "markdown": true,
+    "json": true,
+  }
+}
