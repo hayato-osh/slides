@@ -8,5 +8,8 @@
     "*": false,
     "markdown": true,
     "json": true,
-  }
+  },
+  "markdown.marp.themes": [
+    "./assets/theme.css"
+  ]
 }

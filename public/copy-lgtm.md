@@ -27,7 +27,7 @@ footer: ![w:30](https://avatars.githubusercontent.com/u/74091672?s=400&u=5a64d82
 ## デモ
 
 ---
-## 使用技術
+## **使用技術**
 [Plasmo](https://docs.plasmo.com/)
 (ブラウザ拡張機能用 React フレームワーク)
 

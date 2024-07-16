@@ -1,0 +1,13 @@
+/* @theme fastman */
+
+@import 'default';
+
+:root {
+  font-size: 36px;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
