@@ -66,8 +66,6 @@ visibility: hidden;
 
 「スラッシュ」「ハイフン」「ドット」などと読み上げられてしまう
 
-![2023年8月18日に公開](../assets/images/voice-over-about-date.png)
-
 ---
 本来は `2024年7月16日`と表記すれば問題ない。
 しかし、プロダクトの都合上、現実問題そうはいかない場合もある！
@@ -114,3 +112,7 @@ visibility: hidden;
 ## 参考
 - https://www.a11yproject.com/posts/how-to-hide-content/
 - https://adrianroselli.com/2019/11/aria-label-does-not-translate.html
+
+---
+
+ご清聴ありがとうございました！
