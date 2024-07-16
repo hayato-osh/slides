@@ -53,6 +53,12 @@ visibility: hidden;
 ```
 
 ---
+- React を使っているプロダクトなら
+  - [Radix UI](https://www.radix-ui.com/primitives/docs/utilities/visually-hidden)
+  - [Chakra UI](https://v2.chakra-ui.com/docs/components/visually-hidden/usage)
+- [Tailwind CSS](https://tailwindcss.com/docs/screen-readers)
+
+---
 ## Q. とはいえ、いつ使うん？
 
 ---
@@ -103,12 +109,6 @@ visibility: hidden;
   - 翻訳されないことがある
 - `visually-hidden` はあくまで視覚的に表示されないだけ
 
----
-## ライブラリで見る Visually Hidden
-- React を使っているプロダクトなら
-  - [Radix UI](https://www.radix-ui.com/primitives/docs/utilities/visually-hidden)
-  - [Chakra UI](https://v2.chakra-ui.com/docs/components/visually-hidden/usage)
-- [Tailwind CSS](https://tailwindcss.com/docs/screen-readers)
 
 ---
 ## 注意
