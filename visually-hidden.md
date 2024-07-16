@@ -104,15 +104,23 @@ visibility: hidden;
 - `visually-hidden` はあくまで視覚的に表示されないだけ
 
 ---
-## 最後に
+## ライブラリで見る Visually Hidden
+- React を使っているプロダクトなら
+  - [Radix UI](https://www.radix-ui.com/primitives/docs/utilities/visually-hidden)
+  - [Chakra UI](https://v2.chakra-ui.com/docs/components/visually-hidden/usage)
+- [Tailwind CSS](https://tailwindcss.com/docs/screen-readers)
+
+---
+## 注意
 - 晴眼者にとっても伝わりづらいデザインは避けるべき
-- `visually-hidden` を使う際は `aria-hidden` を使うケースも多いので注意
+- `visually-hidden` を使う際は `aria-hidden` を使うケースも多い
 - 晴眼者とスクリーンリーダーユーザー間で情報の差異がないように
+
+---
+## 最後に
+適切に visually-hidden を使ってアクセシブルな Web を提供しよう
+
 ---
 ## 参考
 - https://www.a11yproject.com/posts/how-to-hide-content/
 - https://adrianroselli.com/2019/11/aria-label-does-not-translate.html
-
----
-
-ご清聴ありがとうございました！
